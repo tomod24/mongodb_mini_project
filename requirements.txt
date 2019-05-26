@@ -9,3 +9,9 @@ six==1.5.2
 unattended-upgrades==0.1
 urllib3==1.7.1
 wheel==0.24.0
+Click==7.0
+Flask==1.0.2
+itsdangerous==1.1.0
+Jinja2==2.10
+MarkupSafe==1.1.0
+Werkzeug==0.14.1
